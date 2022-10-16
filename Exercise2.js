@@ -5,4 +5,6 @@
 var person_name = prompt("whats your name ?") //"Eric"
 var greet = alert("hello "+ person_name + "!! would you like to learn some Javascript today?")
 
+
+jkjhkjh
 console.log(person_name)
